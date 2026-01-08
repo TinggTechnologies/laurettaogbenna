@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import PageLayout from '../components/layout/PageLayout';
 import Card, { CardContent, CardHeader } from '../components/ui/Card';
 import './PortfolioPage.css';
