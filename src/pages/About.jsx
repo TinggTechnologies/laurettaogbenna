@@ -52,12 +52,14 @@ export default function About() {
               <CardContent>
                 <h2 className="content-heading">What I Bring</h2>
                 <ul className="content-list">
-                  <li>Strong analytical and problem-solving abilities</li>
-                  <li>Proficiency in data visualization and storytelling</li>
-                  <li>Experience with business intelligence tools</li>
-                  <li>Excellent communication and presentation skills</li>
-                  <li>Ability to translate complex data into actionable insights</li>
-                  <li>Commitment to continuous learning and professional development</li>
+                  <li>Strong analytical and problem-solving abilities with pharmaceutical precision</li>
+                  <li>Proficiency in data visualization and storytelling using Power BI, Python, and Tableau</li>
+                  <li>Experience with business intelligence tools and dashboard design</li>
+                  <li>Excellent communication and presentation skills for non-technical stakeholders</li>
+                  <li>Ability to translate complex data into actionable business insights</li>
+                  <li>Multi-disciplinary edge spanning business operations, content creation, and community engagement</li>
+                  <li>Commitment to data governance, integrity, and privacy compliance</li>
+                  <li>Automated data processes that reduce manual effort by 40%</li>
                 </ul>
               </CardContent>
             </Card>

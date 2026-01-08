@@ -25,27 +25,24 @@ export default function Hero() {
           </h1>
 
           <h2 className="hero-subtitle">
-            Data Analyst | Transforming Data into Actionable Insights
+            Data Analyst
           </h2>
 
           <p className="hero-description">
-            Detail-oriented and results-driven Data Analyst with expertise in Excel, SQL, 
-            Power BI, and Python. I specialize in analyzing complex datasets, designing 
-            interactive dashboards, and driving data-backed business decisions.
+            Detail-oriented and results-driven Data Analyst with a strong background in 
+            pharmaceutical technology and a passion for deriving insights that inform business 
+            strategy and financial literacy. Experienced in leveraging Excel, SQL, Power BI, and 
+            Python to analyze data, design dashboards, and drive data-backed decisions.
           </p>
 
           <div className="hero-stats">
             <div className="stat-item">
+              <div className="stat-number">6+</div>
+              <div className="stat-label">Core Tools</div>
+            </div>
+            <div className="stat-item">
               <div className="stat-number">5+</div>
-              <div className="stat-label">Tools Mastered</div>
-            </div>
-            <div className="stat-item">
-              <div className="stat-number">3+</div>
               <div className="stat-label">Certifications</div>
-            </div>
-            <div className="stat-item">
-              <div className="stat-number">100%</div>
-              <div className="stat-label">Commitment</div>
             </div>
           </div>
 

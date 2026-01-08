@@ -5,37 +5,41 @@ import './Skills.css';
 export default function Skills() {
   const skillCategories = [
     {
-      title: 'Data Analysis Tools',
+      title: 'Core Data Analysis Tools',
       icon: '📊',
       skills: [
-        { name: 'Excel', level: 90 },
-        { name: 'Power BI', level: 85 },
-        { name: 'SQL', level: 80 },
-        { name: 'Python', level: 75 },
-        { name: 'Tableau', level: 80 },
+        { name: 'Excel', level: 95 },
+        { name: 'Power BI', level: 90 },
+        { name: 'SQL', level: 85 },
+        { name: 'Python (Pandas, Numpy, Matplotlib)', level: 80 },
+        { name: 'Tableau', level: 85 },
         { name: 'Google Sheets', level: 90 }
       ]
     },
     {
-      title: 'Core Competencies',
+      title: 'Technical Competencies',
       icon: '🎯',
       skills: [
         { name: 'Data Storytelling', level: 90 },
         { name: 'Data Cleaning', level: 95 },
-        { name: 'Data Visualization', level: 88 },
+        { name: 'Quality Assessment', level: 92 },
+        { name: 'Data Wrangling', level: 88 },
+        { name: 'Data Visualization', level: 90 },
         { name: 'Exploratory Data Analysis', level: 85 },
-        { name: 'Financial Analysis', level: 80 },
-        { name: 'KPI Tracking', level: 85 }
+        { name: 'Financial Analysis', level: 82 },
+        { name: 'KPI Tracking', level: 85 },
+        { name: 'Plotly', level: 75 }
       ]
     },
     {
-      title: 'Soft Skills',
+      title: 'Business & Communication',
       icon: '💡',
       skills: [
         { name: 'Communication', level: 92 },
         { name: 'Team Collaboration', level: 88 },
-        { name: 'Problem Solving', level: 90 },
-        { name: 'Business Strategy', level: 82 }
+        { name: 'Business Strategy', level: 82 },
+        { name: 'MS Word', level: 90 },
+        { name: 'MS PowerPoint', level: 88 }
       ]
     }
   ];
